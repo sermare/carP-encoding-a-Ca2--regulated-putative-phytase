@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><nex:nexml xmlns:nex="http://www.nexml.org/2009" xmlns="http://www.nexml.org/2009" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" generator="org.nexml.model.impl.DocumentImpl" version="0.9" xmlns:root="">
+  <otus id="otus1"/>
+  <trees id="trees2" otus="otus1">
+    <tree about="#tree3" id="tree3" label="[1]Tree1" xsi:type="nex:FloatTree">
+      <meta content="node4" datatype="xsd:string" id="meta145" property="root" xsi:type="nex:LiteralMeta"/>
+      <node id="node4"/>
+      <node id="node5"/>
+      <node id="node6"/>
+      <node id="node7"/>
+      <node id="node8"/>
+      <node id="node9"/>
+      <node id="node10"/>
+      <node id="node11"/>
+      <node id="node12"/>
+      <node id="node13"/>
+      <node id="node14"/>
+      <node id="node15"/>
+      <node id="node16"/>
+      <node id="node17"/>
+      <node id="node18"/>
+      <node id="node19"/>
+      <node id="node20"/>
+      <node id="node21"/>
+      <node id="node22"/>
+      <node id="node23"/>
+      <node id="node24"/>
+      <node id="node25"/>
+      <node id="node26"/>
+      <node id="node27"/>
+      <node id="node28"/>
+      <node id="node29"/>
+      <node id="node30" label="W_PA_LLVQ01000074_WH-SGI-V-07330__WH_SGI_V_07330_3__Otu0_19"/>
+      <node id="node31" label="W_PA_LLTG01000007_WH-SGI-V-07299__WH_SGI_V_07299_15__Otu02_3"/>
+      <node id="node34" label="UTI_PA_JTSY01000023_AZPAE14890__contig_23__Otu02_19"/>
+      <node id="node37" label="UTI_PA_JTRI01000021_AZPAE14933__contig_21__Otu01_27"/>
+      <node id="node40" label="RTI_PA_JTVK01000033_AZPAE14824__contig_33__Otu02_24"/>
+      <node id="node43" label="RTI_PA_JTZQ01000008_AZPAE13756__contig_8__Otu01_30"/>
+      <node id="node46" label="NOCF_PA_FRTN01000147_420__contig-20__Otu3_1"/>
+      <node id="node49" label="LC_PA_FUEJ01000178_30__contig-22__Otu1_6"/>
+      <node id="node52" label="INDS_PA_CUYG01000165_TSB_Bead_DWL_Pool_2__contig_165__Otu2_5"/>
+      <node id="node55" label="IATI_PA_JTVM01000001_AZPAE14822__contig_1__Otu02_23"/>
+      <node id="node58" label="IATI_PA_JTYO01000010_AZPAE14403__contig_10__Otu01_26"/>
+      <node id="node61" label="ES_PA_KI518749_M8A.1__scaffold_3__Otu01_5"/>
+      <node id="node64" label="EINF_PA_LORA01000002_SMC4386_delta_CRISPR_Cas__contig_2_"/>
+      <node id="node67" label="EINF_PA_KI518922_BL06__scaffold_7__Otu01_4"/>
+      <node id="node70" label="CF_PA_MAZN01000005_TNCF_42M__contig-24__Otu03_38"/>
+      <node id="node73" label="CF_PA_MULF01000024_SCH_ABX12__scaffold-24__Otu02_41"/>
+      <node id="node76" label="CF_PA_LEHW01000037_Pae_CF67.09r__contig_37__Otu01_255"/>
+      <node id="node79" label="CAN_PA_CP007399_F22031__chromosome_"/>
+      <node id="node82" label="BU_PA_FRGV01000151_38__contig-22__Otu01_13"/>
+      <node id="node85" label="B_PA_FRIS01000099_122__contig-4__Otu1_5"/>
+      <node id="node88" label="AB_PS_KV800832_HMSC064G05__scaffold-4_"/>
+      <node id="node91" label="AB_PA_KI519141_BWHPSA007__scaffold_2_"/>
+      <node id="node94" label="PAO1_carP"/>
+      <node id="node97"/>
+      <node id="node98"/>
+      <node id="node99"/>
+      <node id="node100"/>
+      <node id="node101" label="NOCF_PA_FRMQ01000026_225__contig-4__Otu211"/>
+      <node id="node102" label="WASTE_PO_JGYF01000074_otitidis_LNU-E-001__contig_74_"/>
+      <node id="node105" label="ES_PA_KI518697_C51__scaffold_12__Otu02_3"/>
+      <node id="node108" label="BU_PA_FRHW01000041_100__contig-26__Otu02_11"/>
+      <node id="node111"/>
+      <node id="node112"/>
+      <node id="node113"/>
+      <node id="node114" label="EI_PA_LLKP01000100_ATCC_9027__scaffold59_"/>
+      <node id="node115" label="EI_PA_LJGL01000013_ATCC_9027__scaffold_12_"/>
+      <node id="node118" label="PA0319"/>
+      <node id="node121" label="NOCF_PA_AYSZ01000117_PAHM4__Ot1145_117_"/>
+      <node id="node128" label="B_PA_MPCR01000020_PAC17__contig-20__Otu2_2"/>
+      <node id="node131"/>
+      <node id="node132"/>
+      <node id="node133" label="RTI_PA_JTQA01000051_AZPAE14968__scaffold_70__Otu03_16"/>
+      <node id="node134" label="UTI_PA_JTUS01000019_AZPAE14842__contig_19__Otu03_12"/>
+      <node id="node137" label="LC_PA_CUWW01000061_15_2__contig_61__Otu2_4"/>
+      <node id="node142" label="INDSs_PA_CTCL01000017_2.5_7__contig_17__Otu1_20"/>
+      <edge id="edge32" length="1.0" source="node29" target="node30"/>
+      <edge id="edge33" length="1.0" source="node29" target="node31"/>
+      <edge id="edge35" length="0.0" source="node28" target="node29"/>
+      <edge id="edge36" length="1.0" source="node28" target="node34"/>
+      <edge id="edge38" length="0.0" source="node27" target="node28"/>
+      <edge id="edge39" length="1.0" source="node27" target="node37"/>
+      <edge id="edge41" length="0.0" source="node26" target="node27"/>
+      <edge id="edge42" length="1.0" source="node26" target="node40"/>
+      <edge id="edge44" length="0.0" source="node25" target="node26"/>
+      <edge id="edge45" length="1.0" source="node25" target="node43"/>
+      <edge id="edge47" length="0.0" source="node24" target="node25"/>
+      <edge id="edge48" length="1.0" source="node24" target="node46"/>
+      <edge id="edge50" length="0.0" source="node23" target="node24"/>
+      <edge id="edge51" length="1.0" source="node23" target="node49"/>
+      <edge id="edge53" length="0.0" source="node22" target="node23"/>
+      <edge id="edge54" length="1.0" source="node22" target="node52"/>
+      <edge id="edge56" length="0.0" source="node21" target="node22"/>
+      <edge id="edge57" length="1.0" source="node21" target="node55"/>
+      <edge id="edge59" length="0.0" source="node20" target="node21"/>
+      <edge id="edge60" length="1.0" source="node20" target="node58"/>
+      <edge id="edge62" length="0.0" source="node19" target="node20"/>
+      <edge id="edge63" length="1.0" source="node19" target="node61"/>
+      <edge id="edge65" length="0.0" source="node18" target="node19"/>
+      <edge id="edge66" length="1.0" source="node18" target="node64"/>
+      <edge id="edge68" length="0.0" source="node17" target="node18"/>
+      <edge id="edge69" length="1.0" source="node17" target="node67"/>
+      <edge id="edge71" length="0.0" source="node16" target="node17"/>
+      <edge id="edge72" length="1.0" source="node16" target="node70"/>
+      <edge id="edge74" length="0.0" source="node15" target="node16"/>
+      <edge id="edge75" length="1.0" source="node15" target="node73"/>
+      <edge id="edge77" length="0.0" source="node14" target="node15"/>
+      <edge id="edge78" length="1.0" source="node14" target="node76"/>
+      <edge id="edge80" length="0.0" source="node13" target="node14"/>
+      <edge id="edge81" length="1.0" source="node13" target="node79"/>
+      <edge id="edge83" length="0.0" source="node12" target="node13"/>
+      <edge id="edge84" length="1.0" source="node12" target="node82"/>
+      <edge id="edge86" length="0.0" source="node11" target="node12"/>
+      <edge id="edge87" length="1.0" source="node11" target="node85"/>
+      <edge id="edge89" length="0.0" source="node10" target="node11"/>
+      <edge id="edge90" length="1.0" source="node10" target="node88"/>
+      <edge id="edge92" length="0.0" source="node9" target="node10"/>
+      <edge id="edge93" length="1.0" source="node9" target="node91"/>
+      <edge id="edge95" length="0.0" source="node8" target="node9"/>
+      <edge id="edge96" length="0.0" source="node8" target="node94"/>
+      <edge id="edge103" length="1.0" source="node100" target="node101"/>
+      <edge id="edge104" length="1.0" source="node100" target="node102"/>
+      <edge id="edge106" length="0.0" source="node99" target="node100"/>
+      <edge id="edge107" length="1.0" source="node99" target="node105"/>
+      <edge id="edge109" length="0.0" source="node98" target="node99"/>
+      <edge id="edge110" length="1.0" source="node98" target="node108"/>
+      <edge id="edge116" length="1.0" source="node113" target="node114"/>
+      <edge id="edge117" length="1.0" source="node113" target="node115"/>
+      <edge id="edge119" length="0.02278686" source="node112" target="node113"/>
+      <edge id="edge120" length="100.86276804" source="node112" target="node118"/>
+      <edge id="edge122" length="0.0" source="node111" target="node112"/>
+      <edge id="edge123" length="1.0" source="node111" target="node121"/>
+      <edge id="edge124" length="0.0" source="node97" target="node98"/>
+      <edge id="edge125" length="0.00424954" source="node97" target="node111"/>
+      <edge id="edge126" length="0.00229304" source="node7" target="node8"/>
+      <edge id="edge127" length="0.00235879" source="node7" target="node97"/>
+      <edge id="edge129" length="0.00185188" source="node6" target="node7"/>
+      <edge id="edge130" length="1.0" source="node6" target="node128"/>
+      <edge id="edge135" length="1.0" source="node132" target="node133"/>
+      <edge id="edge136" length="1.0" source="node132" target="node134"/>
+      <edge id="edge138" length="0.0" source="node131" target="node132"/>
+      <edge id="edge139" length="1.0" source="node131" target="node137"/>
+      <edge id="edge140" length="0.0" source="node5" target="node6"/>
+      <edge id="edge141" length="0.0" source="node5" target="node131"/>
+      <edge id="edge143" length="0.02375" source="node4" target="node5"/>
+      <edge id="edge144" length="0.45125" source="node4" target="node142"/>
+    </tree>
+  </trees>
+</nex:nexml>
