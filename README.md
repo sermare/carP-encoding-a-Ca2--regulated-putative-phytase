@@ -1,7 +1,7 @@
 # carP, encoding a Ca2+-regulated putative phytase, is evolutionarily conserved in Pseudomonas aeruginosa and has potential as a biomarker Free
 
 [![twitter](https://badgen.net/badge/icon/twitter?icon=twitter&label)](https://twitter.com/mares_ser)
-[![Paper DOI : https://doi.org/10.1099/mic.0.001004](https://badgen.net/badge/Microbiology%20DOI/10.1099%2Fmic.0.001004/F96854)](https://doi.org/10.1099/mic.0.001004)
+[![Paper DOI : https://doi.org/10.1099/mic.0.001004](https://badgen.net/badge/Microbiology%20DOI/10.1099%2Fmic.0.001004/F96854)](https://doi.org/10.1099/mic.0.001004)]
 
 ### Authors
 
